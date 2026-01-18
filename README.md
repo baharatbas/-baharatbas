@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/...
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/bahar-atbaş-202a38249/
+- 📧 Email: baharatbas102@gmail.com
 
